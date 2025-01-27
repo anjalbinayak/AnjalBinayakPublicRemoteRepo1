@@ -16,4 +16,6 @@ Here's a link to my [LinkedIn](https://www.linkedin.com/in/anjalbinayak/)
 
 Hi I am Chafik Amaziane, I am a Web Developer. Currently I am studying in Fanshawe. I am well experienced to create Responsive Websites using React.js, and Typescript.
 
+Remote Changes made by Anjal Binayak Adhikari
+
 
